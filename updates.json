@@ -1,1 +1,149 @@
-{}
+{
+    "pixiv": {
+        "app_version": "6.144.0..58242",
+        "patches_version": "v5.30.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1751494131932,
+        "date_patched": "2025-07-02 22:08:51.931879+05:30",
+        "app_dump": {
+            "app_name": "pixiv",
+            "app_version": "6.144.0..58242",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            ],
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [
+                "arm64-v8a"
+            ],
+            "options_file": "options.json",
+            "download_file_name": "pixiv.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=9855922&key=4641e4d1946d7061b97913cd51e92e5fe5cc59de",
+            "download_source": "https://www.apkmirror.com/apk/pixiv-inc/pixiv/",
+            "package_name": "jp.pxv.android",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "spotify": {
+        "app_version": "latest",
+        "patches_version": "v5.30.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1751494124447,
+        "date_patched": "2025-07-02 22:08:44.446676+05:30",
+        "app_dump": {
+            "app_name": "spotify",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            ],
+            "no_of_patches": 8,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [
+                "arm64-v8a"
+            ],
+            "options_file": "options.json",
+            "download_file_name": "spotify.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/RvVkii134Riphftvun7hQBZyU0aCwJjJMFI3FD3XyiQhoSxxtC1WC7Vh5VbdjesDfCZa7MI0iWLbgvIcXyLGVXPRz_U9fk8TGi8ITKg_NR8ujnC0yXaUQxfy9UP4Rs2L/sT8v_ziiKMognvoqy-HghrWMpUA0-O12I9K-wlRJfejbhTCR80gDCF0g3s-mdt-Bk7ze2jIz0c3A7OdAoWaERZkgVoOJ_0HW0kivF8i0iCtoTYIaPR4cgNhrFP7MO6AG/ciUKoYJkZzFgYRM0Ux2tYyZiDCcOsZ593C2UJX7pROIrruJ3Astwg0lOqrTVIiYTwcC3bJ1ivxPOfmMI1weZKQ==/",
+            "download_source": "https://spotify.en.uptodown.com/android",
+            "package_name": "com.spotify.music",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    },
+    "youtube": {
+        "app_version": "20.13.41",
+        "patches_version": "v5.30.0",
+        "cli_version": "v5.0.1",
+        "ms_epoch_since_patched": 1751494144491,
+        "date_patched": "2025-07-02 22:09:04.491128+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "20.13.41",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl_list": [
+                "https://github.com/revanced/revanced-patches/releases/latest"
+            ],
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "2d7026935af86ae1618510c333c6e98bcd084ac4312ff8fd382414464c601e7f.jar",
+                    "version": "v5.0.1"
+                },
+                "patches": {
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            },
+            "patch_bundles": [
+                {
+                    "name": "patches",
+                    "file_name": "ff9f25d8064763af22ecc99a2430d40ed25c0500ee13f84ed54341e82254c4b2.rvp",
+                    "version": "v5.30.0"
+                }
+            ],
+            "no_of_patches": 56,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [
+                "arm64-v8a"
+            ],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=8979329&key=970985405f7bbfea42860d52607627994d8a2684&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "patches": [],
+            "space_formatted": true
+        }
+    }
+}
